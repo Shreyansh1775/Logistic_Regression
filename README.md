@@ -1,1 +1,1 @@
-# DSA_Logistic
+# Logistic_Regression
